@@ -3,6 +3,7 @@ def my_select(collection)
  array = []
  i = 0
  while i<collection.length
- if (yield[i] == yield[i].even)
+ if (yield[i] == yield[i].even?)
+   
  
 end
